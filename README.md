@@ -1,3 +1,3 @@
 # grupA
 Programmer: Tuğra Burak Çakıcı
-tehnical : Rasim  CİNS
+Technical : Rasim  CİNS
