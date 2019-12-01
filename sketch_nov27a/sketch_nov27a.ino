@@ -8,8 +8,8 @@ char auth[]="acqwtXtU16xMAKVtf8AxQsA0Eo1DECOf"
 
 const int relayPin = 10; //to be decided later.
 int sensorPin = A0;// For calculating the voltage.
-String networkName="to be decided";
-String networkPass"to be decided";
+String networkName="SUPERONLINE-WIFI_0046";
+String networkPass"MTUYPHKCHNP7";
 int rxPin=0;// Wifi rx pin
 int txPin=1;// Wifi tx pin
 
